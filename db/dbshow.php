@@ -1,7 +1,7 @@
 <?php
 print ("Connecting to MySQL....");
 try {
-  $db = new PDO ('mysql:host=localhost; dbname=dbtest; charset=utf8', 'takano', 'takanolab');
+  $db = new PDO ('mysql:host=localhost; dbname=dbtest; charset=utf8', 'takano', '');
 } catch (PDOException $e) {
     exit('DB connection error.'.$e->getMessage());
 }
