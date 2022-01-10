@@ -1,4 +1,4 @@
-# DB接続用のサンプルプログラム (PHP)
+# DB接続用のサンプルプログラム (PHP，Python)
 
 MySQL Connector/Python のインストール
 
