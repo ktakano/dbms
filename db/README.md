@@ -5,6 +5,8 @@ student.sql: サンプルデータベース構築用のSQL<br>
 .php: PHP用プログラム<br>
 .py: Python用プログラム<br>
 
+最初に、student.sqlを利用してサンプルデータベースを構築してください。
+
 ## PHP
 Xampp環境で実行することができます。
 
